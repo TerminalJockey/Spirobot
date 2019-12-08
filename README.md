@@ -20,8 +20,8 @@ add threading!!!!!
 # Dependencies:
 curl
 
-# I am always open to improvements, suggestions, and willing to learn.
-# Anyone may modify this to your hearts content, if you credit then great, if
-# not no worries!
+I am always open to improvements, suggestions, and willing to learn.
+Anyone may modify this to your hearts content, if you credit then great, if
+not no worries!
 
-# Hack the planet!
+ Hack the planet!
